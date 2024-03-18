@@ -1,11 +1,23 @@
 # PODA-coursework
-## Coursework for the Principles of Data Analytics module  
+Coursework for the Principles of Data Analytics module  
+***
+
+## About This Project  
 This repository contains:  
 - penguins.ipynb, a Jupyter notebook which retrieves and analyses the Palmer Penguins csv file.  
 - iris.ipynb, a Jupyter notebook which retrieves and analyses the iris data set.  
-The Python pandas and numpy packages are used to analyze and visualize the data.  
-The iris notebook was created following along with the week 08 video series.  
+  The Python pandas and numpy packages are used to analyze and visualize the data.  
+  The iris notebook was created following along with the week 08 video series.  
+- test-code, a folder for test-code created 3rd March 2024 to hold any files associated with test  
+  and lab work, but not required for the Palmer penguins or iris notebooks.  
 
-## Test Code  
-Created test-code folder 3rd March 2024 to hold any files associated with test and lab work, but not  
-required for the Palmer penguins notebook.  
+## How To Use  
+Jupyter notebooks may be opened in any appropriate editor. They both include Markdown test and  
+Python code.  
+Any code in the Test Code folder should be standalone Python files that can be run independently.
+Any package dependencies are captured as import commands.  
+
+## Contribute
+
+## Author
+
