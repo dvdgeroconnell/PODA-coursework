@@ -4,7 +4,7 @@ Coursework for the Principles of Data Analytics module.
 
 ## References
 This README has taken [GitHub's documentation on READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) into account.
-More information on writing in Markdown in Github's documentation(https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).  
+More information on writing in Markdown [in Github's documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).  
 
 ## About This Project  
 This repository contains:  
