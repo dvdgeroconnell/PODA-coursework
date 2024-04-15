@@ -8,12 +8,17 @@ More information on writing in Markdown [in Github's documentation](https://docs
 
 ## About This Project  
 This repository contains:  
-- penguins.ipynb, a Jupyter notebook which retrieves and analyses the Palmer Penguins csv file.  
-- iris.ipynb, a Jupyter notebook which retrieves and analyses the iris data set.  
-  The Python pandas and numpy packages are used to analyze and visualize the data.  
-  The iris notebook was created following along with the week 08 video series.  
-- test-code, a folder for test-code created 3rd March 2024 to hold any files associated with test  
-  and lab work, but not required for the Palmer penguins or iris notebooks.  
+#### penguins.ipynb
+A Jupyter notebook which retrieves and analyses the Palmer Penguins csv file.  
+#### iris.ipynb
+A Jupyter notebook which retrieves and analyses the iris data set.  
+The Python pandas and numpy packages are used to analyze and visualize the data.  
+The iris notebook was created following along with the week 08 video series.  
+#### information.ipynb
+A Jupyter notebook created as a follow-along with PoDA lecture t10v04_bytes.
+#### test-code
+A folder for test-code created 3rd March 2024 to hold any files associated with test  
+and lab work, but not required for the Palmer penguins or iris notebooks.  
 
 ## How To Use  
 Jupyter notebooks may be opened in any appropriate editor. They both include Markdown test and  
