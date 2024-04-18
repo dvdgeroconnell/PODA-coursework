@@ -1,10 +1,22 @@
 # PODA-coursework
 Coursework for the Principles of Data Analytics module.  
-***
+***  
+  
+| Topic | Details |
+|---------|-------------|
+| **Module:**  | 8634 - Principles of Data Analytics  |
+| **Lecturer:**  | Ian McLoughlin  | 
+| **Course:**  | Diploma in Science in Computing (Data Analytics)  |
+| **Year/Semester:**  | Year 1/Semester 1  |
+| **Student Name:**  | David O'Connell  |
+| **Student ID:**  | G00438912  |
+| **Student Email:**  | G00438912@atu.ie  |  
 
-## References
-This README has taken [GitHub's documentation on READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) into account.  
-More information on writing in Markdown [in Github's documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).  
+# Purpose of this Repository  
+<a name="Purpose-of-this-Repository"></a>
+This repository contains the files associated with the Principles of Data Analytics coursework. More specifically, it contains Jupyter notebook and associated files on the Palmer penguins data set. Other materials are stored in a separate repo, to keep this one focused on the material required for the assessment.
+ 
+
 
 ## About This Project  
 This repository contains:  
@@ -30,3 +42,6 @@ Any package dependencies are captured as import commands.
 
 ## Author
 
+## References
+This README has taken [GitHub's documentation on READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) into account.  
+More information on writing in Markdown [in Github's documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).  
