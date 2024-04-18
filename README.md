@@ -14,9 +14,11 @@ Coursework for the Principles of Data Analytics module.
 
 # Purpose of this Repository  
 <a name="Purpose-of-this-Repository"></a>
-This repository contains the files associated with the Principles of Data Analytics coursework. More specifically, it contains Jupyter notebook and associated files on the Palmer penguins data set. Other materials are stored in a separate repo, to keep this one focused on the material required for the assessment.
- 
+This repository contains the files associated with the Principles of Data Analytics coursework. More specifically, it contains Jupyter notebook and associated files on the palmerpenguins data set. Other materials are stored in a separate repository, to keep this one focused on the material required for the assessment.
 
+## About this README
+This README has been based on the guidelines in [GitHub's documentation on READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes).  
+More information on writing in Markdown can be found [in Github's documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). 
 
 ## About This Project  
 This repository contains:  
@@ -42,6 +44,11 @@ Any package dependencies are captured as import commands.
 
 ## Author
 
-## References
+# Overview - the palmerpenguins data set
+
+More detail can be found here -https://allisonhorst.github.io/palmerpenguins/
+
+
+## About this README
 This README has taken [GitHub's documentation on READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) into account.  
 More information on writing in Markdown [in Github's documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).  
