@@ -12,33 +12,36 @@ Coursework for the Principles of Data Analytics module.
 | **Student ID:**  | G00438912  |
 | **Student Email:**  | G00438912@atu.ie  |  
 
-## Purpose of this Repository  
-<a name="Purpose-of-this-Repository"></a>
-This repository contains the files associated with the Principles of Data Analytics coursework. More specifically, it contains Jupyter notebook and associated files on the *palmerpenguins* data set. Other materials are stored in a separate repository, to keep this one focused on the material required for the assessment.
-
-## About this README  
-This README has been based on the guidelines in [GitHub's documentation on READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes).  
-More information on writing in Markdown can be found [in Github's documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). 
-
-## About This Project  
-This repository contains:  
-### penguins.ipynb
-A Jupyter notebook which retrieves, inspects and analyses the *palmerpenguins* csv file. 
+## Purpose of this Repository   
+This repository contains the files associated with the Principles of Data Analytics coursework. More specifically, it contains Jupyter notebook and associated files on the *palmerpenguins* data set for the coursework and assessment.  
 <p>
 <div style="text-align: left;">
     <img src="img/palmerpenguins.png" width="10%">
 </div>
 <div style="text-align: left" font = 7> Artwork by @allison_horst </div>  
 </p>   
+
+## About this README  
+This README has been based on the guidelines in [GitHub's documentation on READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes).  
+More information on writing in Markdown can be found [in Github's documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). 
+
+## About This Project  
+This repository contains the following:  
+
+### penguins.ipynb
+A Jupyter notebook which retrieves, inspects and analyses the data in the *palmerpenguins* csv file. 
   
 ### /img folder  
 Contains images used in the *penguins* notebook.
   
 ### .gitignore
 A GitHub-generated template which may be customized with extra files (names or types) and folders that GitHub should exclude from the repository.
+
+### PoDA_Assessment_Instructions.pdf
+This file contains the instructions on what to submit for the Principles of Data Analytics assessment. A snapshot is stored here for completeness.
   
 ### README (this document)
-Information on the repository contents and instructions on how to view the *penguins.ipynb* notebook. Written in Markdown.
+Information on the repository contents and instructions on how to view the *penguins.ipynb* notebook. It is written in Markdown.
   
 ## How To Use  
 Jupyter notebooks may in general be opened in any appropriate editor. They both include Markdown test and Python code.  
@@ -61,10 +64,10 @@ As this is an individual module assessment repository, no contributions are expe
 David O'Connell
 
 ## Get Help
+Email the Author at the address above.
 
 ## Overview - the *palmerpenguins* Dataset  
 More detail can be found in the [palmerpenguins repository](https://allisonhorst.github.io/palmerpenguins/).
-
 
 ******
 #### End
