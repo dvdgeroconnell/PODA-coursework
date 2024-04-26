@@ -16,7 +16,7 @@ Coursework for the Principles of Data Analytics module.
 This repository contains the files associated with the Principles of Data Analytics coursework. More specifically, it contains Jupyter notebook and associated files on the *palmerpenguins* data set for the coursework and assessment.  
 <p>
 <div style="text-align: left;">
-    <img src="img/palmerpenguins.png" width="10%">
+    <img src="img/palmerpenguins.png" width="15%">
 </div>
 <div style="text-align: left" font = 7> Artwork by @allison_horst </div>  
 </p>   
