@@ -41,15 +41,17 @@ A GitHub-generated template which may be customized with extra files (names or t
 This file contains the instructions on what to submit for the Principles of Data Analytics assessment. A snapshot is stored here for completeness.
   
 ### README (this document)
-Information on the repository contents and instructions on how to view the *penguins.ipynb* notebook. It is written in Markdown.
+Information on the repository contents and instructions on how to view the *penguins.ipynb* notebook. The README is written in Markdown.
   
 ## How To Use  
-Jupyter notebooks may in general be opened in any appropriate editor. They both include Markdown test and Python code.  
-Any package dependencies are captured as import commands.  
-Visual Studio Code version 1.88.0 was used to develop this notebook.  
-The Python 3.11.7 kernel was used to run the code.  
-For the versions of the other packages used, please see the **Packages Used** section of the *penguins.ipynb* notebook.
-  
+Jupyter notebooks include both Markdown test and Python code, and may be opened in any appropriate editor, as long as they don't use extended syntax only supported by specific editors.  
+
+#### Notes
+- Any package dependencies are captured as import commands.  
+- Visual Studio Code version 1.88.0 was used to develop this notebook.  
+- The Python 3.11.7 kernel was used to run the code.  
+- For the versions of the other packages used, please see the **Packages Used** section of the *penguins.ipynb* notebook.  
+   
 The following clickable link was generated in [openincolab.com](https://openincolab.com) to open the *penguins.ipynb* notebook in Google Colab.  
 <a target="_blank" href="https://colab.research.google.com/github/dvdgeroconnell/PODA-coursework/blob/main/penguins.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
@@ -61,10 +63,10 @@ The following clickable link was generated in [openincolab.com](https://openinco
 As this is an individual module assessment repository, no contributions are expected.
 
 ## Author
-David O'Connell
+David O'Connell.
 
 ## Get Help
-Email the Author at the address above.
+Email the Author at the address in the table above.
 
 ## Overview - the *palmerpenguins* Dataset  
 More detail can be found in the [palmerpenguins repository](https://allisonhorst.github.io/palmerpenguins/).
