@@ -12,7 +12,7 @@ Coursework for the Principles of Data Analytics module.
 | **Student ID:**  | G00438912  |
 | **Student Email:**  | G00438912@atu.ie  |  
 
-# Purpose of this Repository  
+## Purpose of this Repository  
 <a name="Purpose-of-this-Repository"></a>
 This repository contains the files associated with the Principles of Data Analytics coursework. More specifically, it contains Jupyter notebook and associated files on the *palmerpenguins* data set. Other materials are stored in a separate repository, to keep this one focused on the material required for the assessment.
 
@@ -62,7 +62,7 @@ David O'Connell
 
 ## Get Help
 
-# Overview - the *palmerpenguins* Dataset  
+## Overview - the *palmerpenguins* Dataset  
 More detail can be found in the [palmerpenguins repository](https://allisonhorst.github.io/palmerpenguins/).
 
 
